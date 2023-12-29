@@ -37,6 +37,9 @@ dependencies:
   cupertino_icons: ^1.0.2
   introduction_screen:
   shared_preferences:
+  carousel_slider: ^4.2.1
+  animated_text_kit: ^4.2.2
+
 
 dev_dependencies:
   flutter_test:
