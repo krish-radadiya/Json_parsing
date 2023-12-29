@@ -39,4 +39,5 @@ Multi-language Support: Recognizing the diversity of languages in which the Bhag
 has been translated, "Departure" is a multi-language app. It provides support for various
 languages, enabling users to read and study the Bhagvat Geeta in their preferred language,
 making the app inclusive and accessible to a wider audience.
+
 ================================Screen Shots===========================================
